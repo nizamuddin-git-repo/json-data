@@ -1,0 +1,88 @@
+
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Spaghetti Bolognese",
+        "recipe_img": "https://i.ibb.co/YkNnq5x/Spaghetti-Bolognese.png",
+        "title": "Classic Italian pasta dish with savory meat sauce.",
+        "decscription": "6 items 24/7 discount 20% all time",
+        "preparing_time": "30 minutes",
+        "calories": "600 calories",
+        "ingredients": [
+            "500g ground beef",
+            "1 onion, chopped",
+            "cloves garlic, minced"
+        ]
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Chicken Caesar Salad",
+        "recipe_img": "https://i.ibb.co/YfkpQ4D/Chicken-Caesar-Salad.png",
+        "title": "Classic Italian pasta dish with savory meat sauce.",
+        "decscription": "6 items 24/7 discount 20% all time",
+        "preparing_time": "40 minutes",
+        "calories": "500 calories",
+        "ingredients": [
+            "100g ground beef",
+            "1 onion, chopped",
+            "cloves garlic, minced"
+        ]
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Chicken Burger",
+        "recipe_img": "https://i.ibb.co/gy7fpBG/burger-1.png",
+        "title": "Classic Italian pasta dish with savory meat sauce.",
+        "decscription": "6 items 24/7 discount 20% all time",
+        "preparing_time": "25 minutes",
+        "calories": "300 calories",
+        "ingredients": [
+            "200g ground beef",
+            "1 onion, chopped",
+            "cloves garlic, minced"
+        ]
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Chicken Pizza",
+        "recipe_img": "https://i.ibb.co/YyPk487/avocado-pizza-cheese-tomato-basil-spices-olives-side-view.png",
+        "title": "Classic Italian pasta dish with savory meat sauce.",
+        "decscription": "6 items 24/7 discount 20% all time",
+        "preparing_time": "50 minutes",
+        "calories": "200 calories",
+        "ingredients": [
+            "300g ground beef",
+            "1 onion, chopped",
+            "cloves garlic, minced"
+        ]
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "Chicken Mushroom",
+        "recipe_img": "https://i.ibb.co/pJdyj7m/mushroom-risotto.png",
+        "title": "Classic Italian pasta dish with savory meat sauce.",
+        "decscription": "6 items 24/7 discount 20% all time",
+        "preparing_time": "50 minutes",
+        "calories": "450 calories",
+        "ingredients": [
+            "400g ground beef",
+            "1 onion, chopped",
+            "cloves garlic, minced"
+        ]
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Vegetarian Stir fry",
+        "recipe_img": "https://i.ibb.co/mXtjvjk/Vegetarian-Stir-fry.png",
+        "title": "Classic Italian pasta dish with savory meat sauce.",
+        "decscription": "6 items 24/7 discount 20% all time",
+        "preparing_time": "50 minutes",
+        "calories": "350 calories",
+        "ingredients": [
+            "500g ground beef",
+            "1 onion, chopped",
+            "cloves garlic, minced"
+        ]
+    }
+  ]
+  
