@@ -44,3 +44,5 @@ https://www.npmjs.com/package/react-helmet-async
 https://github.com/staylor/react-helmet-async#readme
 ---//deployed on Netlify Page Not Found-------
 https://stackoverflow.com/questions/50752350/page-not-found-when-trying-to-access-a-site-deployed-on-netlify
+//--Resize-img--//
+https://www.reduceimages.com/
